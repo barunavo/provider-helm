@@ -1,0 +1,44 @@
+pkg/controller/namespaced/release/release_test.go
+  s_4b63e47ba7bc23::t_5e4051f2f292fa 332-379,381-391
+  s_4b63e47ba7bc23::t_f510c924425ea8 380
+pkg/controller/cluster/release/release_test.go
+  s_4b63e47ba7bc23::t_1e5b4d242c049e 281-327
+pkg/clients/helm/args.go
+  s_4b63e47ba7bc23::t_605ef01c5abb62 21-26
+pkg/clients/helm/client_ca_bundle_test.go
+  s_4b63e47ba7bc23::t_87998d856d7659 175-181,183,185,187,198-239,241,244-252,256-320
+  s_4b63e47ba7bc23::t_96e2b08fef5699 451,491
+  s_4b63e47ba7bc23::t_6dd8d2ca05fb62 34,43
+  s_4b63e47ba7bc23::t_af418a1bf2d3cb 168
+  s_4b63e47ba7bc23::t_c18263640fe486 149
+  s_4b63e47ba7bc23::t_b7c977f2c7e0e8 321,429-430,508-564
+  s_4b63e47ba7bc23::t_bccbd6cf9d1a7c 336-345,394-428
+  s_4b63e47ba7bc23::t_64ccb2f9c115e1 322
+pkg/controller/cluster/release/release.go
+  s_4b63e47ba7bc23::t_1369b624fcad28 195-200
+pkg/controller/namespaced/release/release.go
+  s_4b63e47ba7bc23::t_4da983c846b754 200-205
+pkg/clients/helm/client.go
+  s_4b63e47ba7bc23::t_722a4a2df27bfc 59-79,85-86
+  s_4b63e47ba7bc23::t_1beb14f0eb407c 80-84
+  s_4b63e47ba7bc23::t_9be772f9e6ea16 20,23,31
+  s_4b63e47ba7bc23::t_58a95cc77ff7cd 160,162,166-186
+  s_4b63e47ba7bc23::t_45c6daefe20b3a 321
+  s_4b63e47ba7bc23::t_7c48ec77edbd29 294,297,310-320,322-324,326-327,329-340,343-403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "e13e2dfdc214a752b8120cbff4e030b6a8ec44b8",
+  "prompts": {},
+  "sessions": {
+    "s_4b63e47ba7bc23": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4948a962-4f6a-483c-bff7-0c30d62a9083",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "barunavo <barunavopal@outlook.com>"
+    }
+  }
+}
